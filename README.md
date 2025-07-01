@@ -6,8 +6,10 @@
 
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
 
-![](https://img.shields.io/badge/讨厌-背刺-太抽象的无意义梗图-yellow) 
-![](https://img.shields.io/badge/性格-内向-深思-条件性喜欢-red) 
+![](https://img.shields.io/badge/讨厌-背刺-yellow) 
+
+![](https://img.shields.io/badge/性格-内向-red) 
+
 ![](https://img.shields.io/badge/爱好-计算机-算法-竞赛-二次元-板绘-red)
 
 </div>

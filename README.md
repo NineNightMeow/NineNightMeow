@@ -15,7 +15,9 @@
 
 ![7A09695A7E2E4849BBF16D74C2EE24FD](https://github.com/user-attachments/assets/271e9739-6803-4ca8-b3ee-e2ab5b4b6b6a)
 
+![](https://img.shields.io/badge/喜欢吃的-Hapy-orange)
 
+![F9957AC6E12211EB05765D69B3F7D890](https://github.com/user-attachments/assets/8acc6227-8014-4134-b71b-375cc81f5ad1)
 
 ![Visitor Count](https://profile-counter.glitch.me/NineNightMeow/count.svg)
 

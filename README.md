@@ -8,12 +8,13 @@
 
 ![](https://img.shields.io/badge/讨厌-背刺-yellow) 
 ![](https://img.shields.io/badge/性格-内向-red) 
-![](https://img.shields.io/badge/爱好-计算机-red)
+![](https://img.shields.io/badge/爱好-计算机-pink)
 ![](https://img.shields.io/badge/爱好-绘画与各种工程软件-orange)
 
 </div>
 
-![F9957AC6E12211EB05765D69B3F7D890](https://github.com/user-attachments/assets/c2e3c1c2-95c3-4640-8224-424dfa03b23a)
+![7A09695A7E2E4849BBF16D74C2EE24FD](https://github.com/user-attachments/assets/271e9739-6803-4ca8-b3ee-e2ab5b4b6b6a)
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/NineNightMeow/count.svg)

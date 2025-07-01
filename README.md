@@ -12,6 +12,8 @@
 ![](https://img.shields.io/badge/性格-内向-red) 
 ![](https://img.shields.io/badge/爱好-计算机-pink)
 ![](https://img.shields.io/badge/爱好-绘画与各种工程软件-orange)
+![](https://img.shields.io/badge/喜欢-可爱的东西-purple) 
+![](https://img.shields.io/badge/特质-弱小-blue) 
 
 </div>
 

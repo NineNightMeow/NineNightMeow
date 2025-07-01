@@ -4,13 +4,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NineNightMeow&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
+[![youtube](https://img.shields.io/badge/我的-YouTube-red)](https://www.youtube.com/@Kuri_Natsuki)
 
 ![](https://img.shields.io/badge/讨厌-背刺-yellow) 
-
 ![](https://img.shields.io/badge/性格-内向-red) 
-
-![](https://img.shields.io/badge/爱好-计算机-算法-竞赛-二次元-板绘-red)
+![](https://img.shields.io/badge/爱好-计算机-red)
+![](https://img.shields.io/badge/爱好-绘画与各种工程软件-orange)
 
 </div>
 

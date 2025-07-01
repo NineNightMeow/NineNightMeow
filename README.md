@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/爱好-绘画与各种工程软件-orange)
 ![](https://img.shields.io/badge/喜欢-可爱的东西-purple) 
 ![](https://img.shields.io/badge/特质-弱小-blue) 
+![](https://img.shields.io/badge/特质-独立-blue) 
 
 </div>
 

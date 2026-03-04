@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kuri Natsuki
 --- 
 
-# About Me  
+# 🎶About Me  
 
 ---  
 
@@ -14,18 +14,20 @@
 - Be willing to accept criticism for the better.
 
 ***  
-# Technical Stack  
+# 🧩Technical Stack  
 ***  
 
-- 🔭 I'm currently working on **none**
+🌱 Currently learning   **TypeScript,Python,React**
 
-- 🌱 I'm currently learning **TypeScript,Python,React**
+***
 
-- 📫 How to reach me **ninenightnya@outlook.com**
+📝 Project Languages
+
+***
 
 - 👨‍💻 All of my projects are available at **[https://www.kn-hsp.top/](https://www.kn-hsp.top/)**
 
-- 📝 I regularly write articles on **[https://xiaojiu.kn-hsp.top/](https://xiaojiu.kn-hsp.top/)**
+-  I regularly write articles on **[https://xiaojiu.kn-hsp.top/](https://xiaojiu.kn-hsp.top/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

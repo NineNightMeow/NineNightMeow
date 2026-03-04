@@ -17,17 +17,18 @@
 # 🧩Technical Stack  
 ***  
 
-🌱 Currently learning   **TypeScript,Python,React**
+🌱 Currently learning   
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
 
 ***
 
-📝 Project Languages
+📝 Project with  
 
 ***
 
-- 👨‍💻 All of my projects are available at **[https://www.kn-hsp.top/](https://www.kn-hsp.top/)**
+- Languages
 
--  I regularly write articles on **[https://xiaojiu.kn-hsp.top/](https://xiaojiu.kn-hsp.top/)**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

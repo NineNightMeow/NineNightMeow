@@ -18,13 +18,6 @@
 
 </div>
 
-![ae0a5f389449ba772e1975ed0dac7265](https://github.com/user-attachments/assets/84db3a7b-c867-4586-b033-ec03ae188d03)
-
-
-[![github](https://img.shields.io/badge/最喜欢吃的-HAPY-blue)](https://github.com/HSP-hapy)
-
-![F9957AC6E12211EB05765D69B3F7D890](https://github.com/user-attachments/assets/8acc6227-8014-4134-b71b-375cc81f5ad1)
-
 ![Visitor Count](https://profile-counter.glitch.me/NineNightMeow/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=NineNightMeow.

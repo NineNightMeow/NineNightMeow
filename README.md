@@ -1,21 +1,21 @@
 # Hi 👋, I'm Kuri Natsuki
-***
-### Hi!
-***
+---  
+# Hi!
+--- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NineNightMeow&label=Profile views&color=0e75b6&style=flat" alt="NineNightMeow" /> </p>
-### About Me  
-***  
+# About Me  
+---  
 
 - I'm a student based on China.
-- 
+
 - Keen on software development , artificial intelligence , web full stack , acmer , also fond of ACG illustration.
-- 
+
 - You may communicate with me in Chinese,English,along with Japanese .
-- 
+
 - Be willing to accept criticism for the better.
-- 
+
 ***  
-### Technical Stack  
+# Technical Stack  
 ***  
 
 - 🔭 I'm currently working on **none**

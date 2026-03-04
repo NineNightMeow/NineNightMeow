@@ -1,3 +1,4 @@
+![ae0a5f389449ba772e1975ed0dac7265](https://github.com/user-attachments/assets/84db3a7b-c867-4586-b033-ec03ae188d03)
 # Hi 👋, I'm Kuri Natsuki
 --- 
 

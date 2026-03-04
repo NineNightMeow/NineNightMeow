@@ -1,6 +1,4 @@
 # Hi 👋, I'm Kuri Natsuki
----  
-# Hi!
 --- 
 
 # About Me  

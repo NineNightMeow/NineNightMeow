@@ -17,7 +17,6 @@
 # 🧩Technical Stack    
 
 <h2 align="left">🌱 Currently learning  </h2>   
-## 🌱 Currently learning
 
 [![My Skills](https://skillicons.dev/icons?i=django,electron,go,opencv,rust,unity,sass)](https://skillicons.dev)
 

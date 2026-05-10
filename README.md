@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kuri Natsuki
+# Hi 👋, I'm Kuri Natsuki 
 --- 
 
 # 🎶About Me  

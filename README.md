@@ -18,7 +18,7 @@
 
 <h2 align="left">🌱 Currently learning  </h2>   
 
-[![My Skills](https://skillicons.dev/icons?i=django,electron,go,opencv,rust,unity,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=electron,go,opencv,rust,unity,sass)](https://skillicons.dev)
 
 ---
 

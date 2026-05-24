@@ -7,7 +7,7 @@
 
 - I'm a student based on China.
 
-- Keen on software development , artificial intelligence , web full stack , acmer , also fond of ACG illustration.
+- Keen on software development , artificial intelligence , web full stack , acmer , also fond of ACG illustration. 
 
 - You may communicate with me in Chinese,English,along with Japanese .
 

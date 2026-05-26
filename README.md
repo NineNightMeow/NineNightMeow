@@ -5,7 +5,7 @@
 
 ---  
 
-- I'm a student based on China.
+- I'm a student based on China. 
 
 - Keen on software development , artificial intelligence , web full stack , acmer , also fond of ACG illustration. 
 

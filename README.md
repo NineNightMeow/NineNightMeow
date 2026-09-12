@@ -13,6 +13,8 @@
  
 - Be willing to accept criticism for the better.
 
+- Each of my project has its ~~original featured bug~~ .
+
 ***  
 # 🧩Technical Stack    
 

@@ -11,7 +11,7 @@
 
 - You may communicate with me in Chinese,English,along with Japanese .
  
-- Be willing to accept criticism for the better.
+- Be willing to accept criticism for the better. 
 
 - Each of my project has its ~~original featured bug~~ .
 
